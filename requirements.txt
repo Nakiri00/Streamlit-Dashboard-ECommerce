@@ -7,6 +7,6 @@ Pillow
 scikit-learn
 streamlit-option-menu
 folium
-streamlit_folium
+streamlit-folium
 Babel
 
